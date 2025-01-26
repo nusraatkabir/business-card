@@ -1,4 +1,4 @@
-# Nusraat Kabir Profile Card
+# Business Card
 
 This project is a simple HTML and CSS implementation of a profile card. 
 
